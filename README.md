@@ -1,4 +1,4 @@
-<h3> Hey 👋, I'm Lizzy!</h3>
+<h2> Hey 👋, I'm Lizzy!</h2>
 
 <br />
 

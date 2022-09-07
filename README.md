@@ -30,8 +30,6 @@ A **Jr. WEB DEVELOPMENT** ***Enthusiast***. Looking to make the leap into the pr
 
 **By the way, here is my stats!**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuongb14&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
-
 [![Lizzy's github activity graph](https://activity-graph.herokuapp.com/graph?username=thuongb14)](https://github.com/thuongb14/github-readme-activity-graph)
 
 

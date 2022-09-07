@@ -10,8 +10,8 @@ A **Jr. WEB DEVELOPMENT** ***Enthusiast***. Looking to make the leap into the pr
 
 **About Me!**
 
-- 👨🏽‍💻 A digital marketer BUT enjoy being a self-taught programmer.
-- 🌱 Currently making my way from a marketer to a web developer.
+- 👨🏽‍💻 Currently a digital marketer BUT enjoy being a self-taught programmer.
+- 🌱 Making my way from a marketer to a web developer.
 - 🤔 My interest lies in front end web development.
 - 📫 Email me at [thuongb14@gmail.com](mailto:jsmokha33@gmail.com).
 - ⚡ Fun fact: I'm a low-key introvert

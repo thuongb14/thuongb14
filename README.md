@@ -2,7 +2,7 @@
 <h3>Learning something new everyday!</h3>
 <br>
 
-A **Jr. WEB DEVELOPER** ***Enthusiast***. Looking to make the leap into the programming world. 🚀
+A **Jr. WEB DEVELOPMENT** ***Enthusiast***. Looking to make the leap into the programming world. 🚀
 
 
 <img height="350px" width="350px" align="right" alt="GIF" src="https://media1.giphy.com/media/n07Zvo9UtALcaw1kA9/giphy.gif?cid=790b76112b16d6994b095beb4d2d895005f5f1307582d3a5&rid=giphy.gif&ct=g" />

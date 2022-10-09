@@ -1,5 +1,4 @@
 <h2> Hey 👋, I'm Lizzy!</h2>
-<h3>Learning something new everyday!</h3>
 <br>
 
 A **Jr. WEB DEVELOPMENT** ***Enthusiast***. Looking to make the leap into the programming world. 🚀
@@ -59,5 +58,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<h3>Learning something new everyday!</h3>
 -->
 

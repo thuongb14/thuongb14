@@ -13,7 +13,6 @@ A **Jr. WEB DEVELOPMENT** ***Enthusiast***. Looking to make the leap into the pr
 - 🌱 Making my way to a web developer.
 - 🤔 My interest lies in front end web development.
 - 📫 Email me at [thuongb14@gmail.com](mailto:jsmokha33@gmail.com).
-- ⚡ Fun fact: I'm a low-key introvert.
 
 
 **Languages and Tools:**  

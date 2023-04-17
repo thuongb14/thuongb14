@@ -11,8 +11,8 @@ A **Jr. WEB DEVELOPMENT** ***Enthusiast***. Looking to make the leap into the pr
 
 - 👨🏽‍💻 Currently a web content coordinator.
 - 🌱 Making my way to a web developer.
-- 🤔 My interest lies in front end web development.
-- 📫 Email me at [thuongb14@gmail.com](mailto:jsmokha33@gmail.com).
+- 🤔 My interest lies in front-end web development.
+- 📫 Email me at [thuongb14@gmail.com](mailto:thuongb14@gmail.com).
 
 
 **Languages and Tools:**  

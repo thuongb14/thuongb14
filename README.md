@@ -32,14 +32,6 @@ A **Jr. WEB DEVELOPMENT** ***Enthusiast***. Looking to make the leap into the pr
 
 ----
 
-**By the way, here is my stats!**
-
-[![Lizzy's github activity graph](https://activity-graph.herokuapp.com/graph?username=thuongb14)](https://github.com/thuongb14/github-readme-activity-graph)
-
-
-
-
-
 
 
 
